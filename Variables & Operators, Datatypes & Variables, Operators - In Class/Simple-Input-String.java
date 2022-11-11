@@ -1,10 +1,8 @@
-/* Author = Chauhan Abhishek */
-/* Codechef Id = abhishekchauha */
-/* Codeforces Id = abhishekchauhan903 */
-/* GitHub Id = AbhishekChauhan9036 */
+/* Author = Mohammad Mumtaz */
+/* leetcode = mohammadmumtaz1997 */
+/* GitHub Id = Mumtaz12 */
 /* Language = JAVA */
-/* Address = Ballia,UP,INDIA (221716)*/
-
+/* Address = kupwara,J&k,INDIA (193225)*/
 /******************************************************************************************************************************************/
 /***********Start****************/
 import java.util.*;
