@@ -1,11 +1,9 @@
 /*--------------------------------------------------------------------------------------------------------------------------*/
-/* Author = Chauhan Abhishek */
-/* Codechef Id = https://www.codechef.com/users/abhishekchauha */
-/* Codeforces Id = https://codeforces.com/profile/abhishekchauhan903 */
-/* Newton School Id = https://my.newtonschool.co/user/abhishekchauhan9036/ */
-/* GitHub Id = https://github.com/AbhishekChauhan9036 */
-/* Language = Java */
-/* Address = Ballia,UP,INDIA (221716)*/
+/* Author = Mohammad Mumtaz */
+/* leetcode = mohammadmumtaz1997 */
+/* GitHub Id = Mumtaz12 */
+/* Language = JAVA */
+/* Address = kupwara,J&k,INDIA (193225)*/
 /*--------------------------------------------------------------------------------------------------------------------------*/
 
 static int StringToInt(String S){
